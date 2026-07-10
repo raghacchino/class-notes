@@ -28,6 +28,7 @@ textarea {
     width: 600px;
     padding: 20px;
     font-size: 22px;
+    border-radius: 8px;
 }
 
 nav {
@@ -37,8 +38,9 @@ nav {
     background: #000;
     border-radius: 20px;
     height: 76px;
-    width: 80%;
+    width: 60%;
     z-index: 999;
+    margin-top: 28px;
 }
 
 nav ul {
