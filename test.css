@@ -29,6 +29,18 @@ textarea {
     padding: 20px;
     font-size: 22px;
     border-radius: 8px;
+    background: #000;
+    color: #fff;
+    /* outline: 1px solid #fff; */
+    border: none;
+    outline: none;
+    box-shadow: 2px 4px 12px #000;
+}
+
+textarea:focus {
+    /* outline: 3px solid #fff; */
+    box-shadow: 4px 6px 14px #000;
+    /* outline: none; */
 }
 
 nav {
